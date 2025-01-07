@@ -1,6 +1,3 @@
-<div align="right">
-  <img height="200" src="https://raw.githubusercontent.com/maruf-git/maruf-git/refs/heads/main/developer-dark.gif"  />
-</div>
 
 ###
 
