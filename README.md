@@ -4,27 +4,24 @@
 
 ###
 
-<h1 align="left">Hey  there👋, <br>I am Maruf Ur Rahman Munna</h1>
+<h1 align="left">Hey  there👋<br>I am Maruf Ur Rahman Munna</h1>
 
 ###
 
-<p align="left">Full-Stack Developer</p>
+<p align="left">I am a web developer from Bangladesh. Currently I am pursuing a Bachelor's degree in Computer Science and Engineering at Hajee Mohammad Danesh Science and Technology University, Bangladesh.</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">Hello,I am a full-stack developer from Bangladesh. I can help you build production grade websites.</p>
 
 ###
 
-<p align="left">✨ I have been programming since 2021.<br>📚 I'm currently exploring Backend Technologies and DSA.<br>🎯 Goals: I will be Full-Stack Developer by 2025, insAllah.<br>🎲 Fun fact: Music , Travel ,Sleep</p>
+<p align="left">✨ I have been programming since 2021.<br>👨‍💻 I am solving programming problems on various online judges like codeforces, codechef, atcoder etc.<br>📚 I'm currently exploring Backend Technologies and Data Structures & Algorithms.<br>🎯 Goals: I will be Full-Stack Developer & an expert at codeforces by 2025, insAllah.<br>🎲 Fun fact: I love Music , Travel & oviously Sleep</p>
 
 ###
 
-<h2 align="left">Languages & Tools</h2>
+<h2 align="left">My Stacks</h2>
 
 ###
 
@@ -70,14 +67,14 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=maruf-git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
+</div>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maruf-git.maruf-git&" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/maruf-git/maruf-git/output/snake.svg" alt="Snake animation" />
 
-###
