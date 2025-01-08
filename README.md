@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">💫 About Me</h2>
 
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">My Stacks</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<h2 align="left">GitHub Status</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
