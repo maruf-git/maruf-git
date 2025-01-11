@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ I have been programming since 2021.<br>👨‍💻 I am solving programming problems on various online judges like codeforces, codechef, atcoder etc.<br>📚 I'm currently exploring Backend Technologies and Data Structures & Algorithms.<br>🎯 Goals: I will be Full-Stack Developer & an expert at codeforces by 2025, insAllah.<br>🎲 Fun fact: I love Music , Travel & oviously Sleep</p>
+<p align="left">✨ I have been programming since 2021.<br>👨‍💻 I am solving programming problems on various online judges like codeforces, codechef, atcoder etc.<br>📚 I'm currently exploring Backend Technologies and Data Structures & Algorithms.<br>🎯 Goals: I will be a Full-Stack Web Developer & an expert programmer at codeforces by 2025, insAllah.<br>🎲 Fun fact: I love Music , Travel & oviously Sleep</p>
 
 ###
 
