@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="200" width="full" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg"  />
+ <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Front-End+Developer+%F0%9F%9A%80;Let's Code The Future Together!+%7C++%F0%9F%92%BB" alt="Typing SVG" />
+ </h1>
 </div>
 
 ###
