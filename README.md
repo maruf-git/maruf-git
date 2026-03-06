@@ -85,22 +85,28 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruf-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=maruf-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=maruf-git&theme=tokyonight&hide_border=true&border_radius=5&mode=daily" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=maruf-git&theme=tokyonight&hide_border=true&border_radius=5&mode=daily" alt="Streak Stats" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maruf-git&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ---
 
