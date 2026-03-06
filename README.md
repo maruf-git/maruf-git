@@ -18,8 +18,8 @@
   <a href="mailto:munna.csehstu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <br/><br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maruf-git.maruf-git" alt="Visitor Count" />
+  <!-- <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maruf-git.maruf-git" alt="Visitor Count" /> -->
 </div>
 
 <br/>
