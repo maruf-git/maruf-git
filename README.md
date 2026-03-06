@@ -117,9 +117,8 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maruf-git&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div> -->
-
----
+</div>
+--- -->
 
 ## 📈 Contribution Activity
 
@@ -140,5 +139,3 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 | 🟩 AtCoder | [maruf_git](https://atcoder.jp/users/maruf_git) | Active |
 
 </div> -->
-
----
