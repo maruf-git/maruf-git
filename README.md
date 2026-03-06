@@ -138,8 +138,8 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 
 _"First, solve the problem. Then, write the code."_ — John Johnson
 
-<br/>
+<!-- <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1) -->
 
 </div>
