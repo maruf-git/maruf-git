@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=maruf-git&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maruf-git.maruf-git" alt="Visitor Count" />
 </div>
 
 <br/>
