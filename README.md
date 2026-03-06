@@ -5,23 +5,23 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/maruf-git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/md-maruf-ur-rahman-munna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/mdmaruf55/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <!-- <a href="https://twitter.com/maruf_git" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a> -->
-  <!-- <a href="https://www.instagram.com/maruf_git" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a> -->
   <a href="mailto:munna.csehstu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=maruf-git&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://marufurrahman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=maruf-git&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
@@ -32,7 +32,7 @@
 
 I'm a **Full Stack Web Developer** from 🇧🇩 Bangladesh with a strong foundation in both frontend and backend development. I build clean, scalable web applications using modern JavaScript technologies and enjoy competitive programming as a way to sharpen my problem-solving skills.
 
-Currently in my final years of a **B.Sc. in Computer Science & Engineering** at *Hajee Mohammad Danesh Science and Technology University (HSTU)*, I'm actively looking for opportunities to contribute to real-world products and grow as an engineer.
+Currently in my final years of a **B.Sc. in Computer Science & Engineering** at [**Hajee Mohammad Danesh Science and Technology University (HSTU)**](https://hstu.ac.bd/), I'm actively looking for opportunities to contribute to real-world products and grow as an engineer.
 
 ---
 
@@ -40,7 +40,7 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 
 | | |
 |---|---|
-| 🎓 | **B.Sc. in CSE** — HSTU, Bangladesh |
+| 🎓 | **B.Sc. in CSE** — [HSTU](https://hstu.ac.bd/), Bangladesh |
 | 💼 | **Full Stack Developer** — React, Next.js, Node.js, MongoDB, PostgreSQL |
 | 🏆 | **Competitive Programmer** — Codeforces, CodeChef, AtCoder |
 | 🌱 | **Currently Deepening** — System Design, DSA & Backend Architecture |
@@ -75,7 +75,7 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruf-git)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -84,12 +84,12 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruf-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruf-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maruf-git&theme=tokyonight&hide_border=true&border_radius=5&mode=daily" height="180" alt="Streak Stats" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=maruf-git&theme=tokyonight&hide_border=true&border_radius=5&mode=daily" alt="Streak Stats" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maruf-git&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maruf-git&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -110,7 +110,7 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 
 ---
 
-## 🎯 Competitive Programming
+<!-- ## 🎯 Competitive Programming
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 | 🟨 CodeChef | [maruf_git](https://www.codechef.com/users/maruf_git) | Active |
 | 🟩 AtCoder | [maruf_git](https://atcoder.jp/users/maruf_git) | Active |
 
-</div>
+</div> -->
 
 ---
 
