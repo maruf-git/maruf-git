@@ -1,86 +1,137 @@
 <div align="center">
- <h1 align="center">
-  <img src="maruf-banner.png" alt="maruf github profile banner" height="900" />
- </h1>
+  <img src="maruf-banner.png" alt="Maruf Ur Rahman Munna — Full Stack Developer" width="100%" />
 </div>
 
-###
+<br/>
 
-<h1 align="left">Hey  there👋<br>I am Maruf Ur Rahman Munna</h1>
-
-###
-
-<p align="left">I am a web developer from Bangladesh. Currently I am pursuing a Bachelor's degree in Computer Science and Engineering at Hajee Mohammad Danesh Science and Technology University, Bangladesh.</p>
-
-###
-
-<h2 align="left">💫 About Me</h2>
-
-
-###
-
-<p align="left">✨ I have been programming since 2021.<br>👨‍💻 I am solving programming problems on various online judges like codeforces, codechef, atcoder etc.<br>📚 I'm currently exploring Backend Technologies and Data Structures & Algorithms.<br>🎯 Goals: I will be a Full-Stack Web Developer & an expert programmer at codeforces by 2025, insAllah.<br>🎲 Fun fact: I love Music , Travel & oviously Sleep</p>
-
-###
-
-<h2 align="left">💻 Tech Stack</h2>
-
-###
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NEXT](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div> -->
-
-###
-
-<h2 align="left">🌐 Connect With Me</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-maruf-ur-rahman-munna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/mdmaruf55/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <!-- <a href="https://twitter.com/maruf_git" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a> -->
+  <!-- <a href="https://www.instagram.com/maruf_git" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a> -->
+  <a href="mailto:munna.csehstu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=maruf-git&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
-###
+<br/>
 
-<h2 align="left">📊 GitHub Stats</h2>
+---
 
-###
+## 👋 Hi, I'm Maruf Ur Rahman Munna
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=maruf-git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+I'm a **Full Stack Web Developer** from 🇧🇩 Bangladesh with a strong foundation in both frontend and backend development. I build clean, scalable web applications using modern JavaScript technologies and enjoy competitive programming as a way to sharpen my problem-solving skills.
+
+Currently in my final years of a **B.Sc. in Computer Science & Engineering** at *Hajee Mohammad Danesh Science and Technology University (HSTU)*, I'm actively looking for opportunities to contribute to real-world products and grow as an engineer.
+
+---
+
+## 🚀 About Me
+
+| | |
+|---|---|
+| 🎓 | **B.Sc. in CSE** — HSTU, Bangladesh |
+| 💼 | **Full Stack Developer** — React, Next.js, Node.js, MongoDB, PostgreSQL |
+| 🏆 | **Competitive Programmer** — Codeforces, CodeChef, AtCoder |
+| 🌱 | **Currently Deepening** — System Design, DSA & Backend Architecture |
+| 🎯 | **2026 Goal** — Secure a full-stack engineering role & reach Expert on Codeforces |
+| ⚡ | **Fun Fact** — I run on code, good music, and probably too much sleep |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maruf-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </div>
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maruf-git.maruf-git&" />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maruf-git&theme=tokyonight&hide_border=true&border_radius=5&mode=daily" height="180" alt="Streak Stats" />
 </div>
 
-###
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+---
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Thanks+for+Visiting+%F0%9F%91%8B" alt="Typing SVG" /> </h1> 
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maruf-git&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-git&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Competitive Programming
+
+<div align="center">
+
+| Platform | Handle | Status |
+|----------|--------|--------|
+| 🟦 Codeforces | [maruf-git](https://codeforces.com/profile/maruf-git) | Active |
+| 🟨 CodeChef | [maruf_git](https://www.codechef.com/users/maruf_git) | Active |
+| 🟩 AtCoder | [maruf_git](https://atcoder.jp/users/maruf_git) | Active |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Amazing Together!
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)
+
+</div>
