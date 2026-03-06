@@ -2,6 +2,14 @@
   <img src="maruf-banner.png" alt="Maruf Ur Rahman Munna — Full Stack Developer" width="100%" />
 </div>
 
+---
+
+## 👋 Hi, I'm Maruf Ur Rahman Munna
+
+I'm a **Full Stack Web Developer** from 🇧🇩 Bangladesh with a strong foundation in both frontend and backend development. I build clean, scalable web applications using modern JavaScript technologies and enjoy competitive programming as a way to sharpen my problem-solving skills.
+
+Currently in my final years of a **B.Sc. in Computer Science & Engineering** at [**Hajee Mohammad Danesh Science and Technology University (HSTU)**](https://hstu.ac.bd/), I'm actively looking for opportunities to contribute to real-world products and grow as an engineer.
+
 <br/>
 
 <div align="center">
@@ -23,14 +31,6 @@
 </div>
 
 <br/>
-
----
-
-## 👋 Hi, I'm Maruf Ur Rahman Munna
-
-I'm a **Full Stack Web Developer** from 🇧🇩 Bangladesh with a strong foundation in both frontend and backend development. I build clean, scalable web applications using modern JavaScript technologies and enjoy competitive programming as a way to sharpen my problem-solving skills.
-
-Currently in my final years of a **B.Sc. in Computer Science & Engineering** at [**Hajee Mohammad Danesh Science and Technology University (HSTU)**](https://hstu.ac.bd/), I'm actively looking for opportunities to contribute to real-world products and grow as an engineer.
 
 ---
 
