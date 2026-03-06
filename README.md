@@ -1,6 +1,6 @@
 <div align="center">
  <h1 align="center">
-  <img src="maruf-banner.png" alt="Typing SVG" />
+  <img src="maruf-banner.png" alt="maruf github profile banner" width="1200" />
  </h1>
 </div>
 
