@@ -19,7 +19,7 @@ _"First, solve the problem. Then, write the code."_ — John Johnson
 
 I'm a **Full Stack Web Developer** from 🇧🇩 Bangladesh with a strong foundation in both frontend and backend development. I build clean, scalable web applications using modern JavaScript technologies and enjoy competitive programming as a way to sharpen my problem-solving skills.
 
-Currently in my final years of a **B.Sc. in Computer Science & Engineering** at [**Hajee Mohammad Danesh Science and Technology University (HSTU)**](https://hstu.ac.bd/), I'm actively looking for opportunities to contribute to real-world products and grow as an engineer.
+Currently in my final years of a **B.Sc. in Computer Science & Engineering** at <a href="https://hstu.ac.bd/" target="_blank"><strong>Hajee Mohammad Danesh Science and Technology University (HSTU)</strong></a>, I'm actively looking for opportunities to contribute to real-world products and grow as an engineer.
 
 <br/>
 
@@ -47,14 +47,14 @@ Currently in my final years of a **B.Sc. in Computer Science & Engineering** at 
 
 ## 🚀 About Me
 
-|     |                                                                                   |
-| --- | --------------------------------------------------------------------------------- |
-| 🎓  | **B.Sc. in CSE** — [HSTU](https://hstu.ac.bd/), Bangladesh                        |
-| 💼  | **Full Stack Developer** — React, Next.js, Node.js, MongoDB, PostgreSQL           |
-| 🏆  | **Competitive Programmer** — Codeforces, CodeChef, AtCoder                        |
-| 🌱  | **Currently Deepening** — System Design, DSA & Backend Architecture               |
-| 🎯  | **2026 Goal** — Secure a full-stack engineering role & reach Expert on Codeforces |
-| ⚡  | **Fun Fact** — I run on code, good music, and probably too much sleep             |
+|     |                                                                                       |
+| --- | ------------------------------------------------------------------------------------- |
+| 🎓  | **B.Sc. in CSE** — <a href="https://hstu.ac.bd/" target="_blank">HSTU</a>, Bangladesh |
+| 💼  | **Full Stack Developer** — React, Next.js, Node.js, MongoDB, PostgreSQL               |
+| 🏆  | **Competitive Programmer** — Codeforces, CodeChef, AtCoder                            |
+| 🌱  | **Currently Deepening** — System Design, DSA & Backend Architecture                   |
+| 🎯  | **2026 Goal** — Secure a full-stack engineering role & reach Expert on Codeforces     |
+| ⚡  | **Fun Fact** — I run on code, good music, and probably too much sleep                 |
 
 ---
 
